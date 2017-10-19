@@ -9,7 +9,8 @@
 		"#coolorigin#",
 		"#wholesomeorigin#",
 		"#weaponorigin#",
-		"#reaperorigin#"
+		"#reaperorigin#",
+		"#verbmeorigin#"
 	],
 	"origin": [
 		"#baseorigin#420",
@@ -3078,7 +3079,11 @@
 		"legate",
 		"elder",
 		"khan",
-		"HisHoliness"
+		"HisHoliness",
+		"MLG",
+		"SSJ",
+		"sir",
+		"ser"
 	],
 	"dick": [
 		"dick",
@@ -3416,15 +3421,11 @@
 		"fox",
 		"frog",
 		"gazelle",
-		"gila monster",
 		"giraffe",
 		"gnu",
 		"goat",
 		"gopher",
 		"gorilla",
-		"grizzly bear",
-		"ground hog",
-		"guinea pig",
 		"hamster",
 		"hedgehog",
 		"hippopotamus",
@@ -3452,12 +3453,10 @@
 		"mongoose",
 		"monkey",
 		"moose",
-		"mountain goat",
 		"mouse",
 		"mule",
 		"muskrat",
 		"mustang",
-		"mynah bird",
 		"newt",
 		"ocelot",
 		"opossum",
@@ -3471,7 +3470,6 @@
 		"parrot",
 		"pig",
 		"platypus",
-		"polar bear",
 		"porcupine",
 		"porpoise",
 		"prairie dog",
@@ -3694,10 +3692,33 @@
 		"Homestarrunner",
 		"StrongBad",
 		"Trogdor",
-		"Sherlock"
+		"Sherlock",
+		"DeanWinchester",
+		"SamWinchester",
+		"Winchesters",
+		"Castiel",
+		"Sherlock",
+		"SonyaBlade",
+		"Sophitia",
+		"Kilik",
+		"Yoshimitsu",
+		"Ivy",
+		"Cervantes",
+		"Voldo",
+		"Riven",
+		"Ahri",
+		"2B",
+		"D.VA",
+		"HatsuneMiku",
+		"Godot",
+		"Harambe",
+		"Naruto",
+		"Sasuke"
 	],
 	"videogamecharacter": [
 		"#pokemon#",
+		"#sonic#",
+		"#sonic#",
 		"#sonic#"
 	],
 	"sex": [
@@ -3771,7 +3792,8 @@
 		"RiceKrispies",
 		"Cheerios",
 		"chex",
-		"oatmeal"
+		"oatmeal",
+		"homework"
 	],
 	"weapontype": [
 		"gun",
@@ -4124,5 +4146,39 @@
 	"reaperorigin": [
 		"#reaperpref##reapersuf#",
 		"#reaperpref#_#reapersuf#"
+	],
+	"verbmeorigin": [
+		"#choke#me#videogamecharacter#",
+		"#choke#_me_#videogamecharacter#",
+		"#choke#me#videogamecharacter##daddy#",
+		"#choke#_me_#videogamecharacter#_#daddy#"
+	],
+	"choke": [
+		"choke",
+		"fuck",
+		"rim",
+		"suck",
+		"blow",
+		"vape",
+		"vibe",
+		"edge",
+		"hurt",
+		"spank",
+		"kiss",
+		"lick",
+		"stroke",
+		"nibble",
+		"thrust",
+		"pump",
+		"trib",
+		"pound",
+		"finger",
+		"tie",
+		"fist",
+		"smother",
+		"arrest",
+		"jiggle",
+		"grab",
+		"boob"
 	]
 }
